@@ -205,7 +205,11 @@ This project is **dataset-agnostic**. To use any heart disease CSV:
 
 This project is open source and available under the [MIT License](LICENSE).
 
+
 ---
+🌍 Live Demo
+
+👉 https://heart-disease-detection-isqdojdp4k79gvgtknyvrh.streamlit.app/
 
 ## 🤝 Contributing
 
